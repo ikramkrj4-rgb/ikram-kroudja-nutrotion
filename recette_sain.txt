@@ -1,13 +1,15 @@
-Recette saine : Salade équilibrée
+Recette saine : Salade de quinoa
 
 Ingrédients :
-- Laitue
+- Quinoa
 - Tomates
 - Concombre
 - Huile d’olive
 - Citron
+- Sel
 
 Préparation :
 1. Laver les légumes
 2. Couper et mélanger
+
 3. Assaisonner avec huile d’olive et citron
